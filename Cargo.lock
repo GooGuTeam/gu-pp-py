@@ -152,8 +152,7 @@ dependencies = [
 [[package]]
 name = "rosu-pp"
 version = "3.0.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "66725aa2b679d3bd206ca70d88d4f9b42127493208a9335d9cc6abe861b619cf"
+source = "git+https://github.com/ppy-sb/rosu-pp#93d98bccc62522d8a22cbe4ad66ffdf04e79af7e"
 dependencies = [
  "rosu-map",
  "rosu-mods",
